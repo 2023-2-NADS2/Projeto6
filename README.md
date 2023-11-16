@@ -29,7 +29,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://github.com/KevinShiroma/mercia/blob/main/img/logo-header.svg" border="0"> <br>
+<img src="https://github.com/KevinShiroma/mercia/blob/main/img/logo-header.svg" border="0" width="300"> <br>
   Projeto Interdisciplinar Sistema Empresarial WEB  <a href="/">
 </p>
 
@@ -40,8 +40,7 @@
 
 ### Resumo do Projeto: <br>
 
-<p> Através de pesquisas de mercado e com base na marca de Mércia, construiremos um site utilizando as principais tecnologias do mercado. </p> 
-<p> O site será desenvolvido por meio de auditoria competitiva, wireframes, prototipagem, desenvolvimento no código e, finalmente, seu deploy. </p>
+<p> Através de pesquisas de mercado e com base na marca de Mércia, construiremos um site utilizando as principais tecnologias e ferramentas do mercado: HTML, CSS, JavaScript, FIGMA, React e Node.js </p> 
 
 
 ### 
@@ -49,19 +48,15 @@
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
-|<br>
+<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
+  &emsp;|-->Template ADS - Projeto de Extensão<br>
+  |-->imagens<br>
+  &emsp;|-->imagens do site<br>
 |-->src<br>
+  &emsp;|-->frontend<br>
   &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+|README.md<br>
 
  <!--            A pasta raiz contem dois arquivos que devem ser alterados:
 
@@ -118,37 +113,31 @@ Coloque código do prompt de comnando se for necessário
   
 ## 🗃 Histórico de lançamentos
 
-<!--
 
-A cada atualização os detalhes devem ser lançados aqui.
-
-* 1 - 14/04/2023
+* 1 - 14/08/2023
     * Início: Dia que foi determinado o tema com o professor;
-* 2 - 20/04/2023
-    * Estudos referente a programação em arduino
-    * Primeiros testes: Inicialmente no arduino
-* 3 - 25/04/2023
-    * Testes utilizando o Esp8266
-* 4 - 29/04/2023
-    * MUDANÇA: Troca do esp8266 pelo ESP32 (por causa do Bluetooth)
-    * Compra do ESP32 e componentes;
- * 5 - 08/05/2023
-    * Trabalho em andamento;
-    * Conclusão: Programação do ESP32.
-* 6 - 15/05/2023
-    * Trabalho em andamento
-    * Estudos sobre a criação do App
-* 7 - 20/05/2023 - 29/05/2023
-    * Criação do App no App Inventor (Designer e programação em blocos);
-    * Trabalho em andamento.
-* 8 - 30/05/2023
-    * Case (capinha protetora) em andamento;
-    * App concluído.
-* 9 - 03/06/2023
-    * Últimos retoques
-    * Finalização
+* 2 - 20/08/2023
+    * primeiras ideias e parcerias com ONG's
+* 3 - 25/08/2023
+    * Definido parceiro: Mércia Decoração e Locação
+* 4 - 29/08/2023
+    * Primeiras ideias de como será construído o site
+* 5 - 08/09/2023
+    * Pesquisa inicial com Mércia sobre a marca
+    * Desenvolvimento da Logotipo e primeiros wireframes
+* 6 - 15/10/2023
+    * Desenvolvimento do protótipo e fluxos de usuário
+    * Desenvolvimento de protótipo de alta fidelidade antes de ir para desenvolvimento em código.
+* 7 - 30/10/2023
+    * Início do desenvolvimento em HTML, CSS e JavaScript
+* 8 - 02/11/2023
+    * Front-end concluído
+    * Início do Back-end criado em Node.js e React
+* 9 - 16/11/2023
+    * Finalização do site
+    * Ajustes finais
 
-    -->
+
 
 ## 📋 Licença/License
 
@@ -157,4 +146,5 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-1. 
+1.  <https://https://figma.com/>
+2.  <https://fonts.google.com/>
