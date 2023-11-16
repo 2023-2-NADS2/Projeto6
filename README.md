@@ -72,7 +72,7 @@
 - Seções promocionais para destacar serviços específicos.
 - Rodapé com informações de contato e navegação rápida.
 
-## Configuração e Instalação
+## 🛠 Instalação
 
 Para configurar e executar o projeto localmente, siga estas etapas:
 
@@ -106,14 +106,16 @@ Para configurar e executar o projeto localmente, siga estas etapas:
 
 -Raiz<br>
 <br>
-|-->documentos<br>
+|--> css<br>
+  &emsp;|-->13 arquivos .css <br>
+|--> documentos<br>
   &emsp;|-->Template ADS - Projeto de Extensão<br>
-  |-->imagens<br>
+  |--> img<br>
   &emsp;|-->imagens do site<br>
-|-->src<br>
-  &emsp;|-->frontend<br>
-  &emsp;|-->Backend<br>
-|README.md<br>
+|--> js<br>
+  &emsp;|-->JavaScript do site<br>
+|--> arquivos HTML (10 arquivos) <br>
+|--> README.md<br>
 
  <!--            A pasta raiz contem dois arquivos que devem ser alterados:
 
@@ -130,7 +132,7 @@ Para configurar e executar o projeto localmente, siga estas etapas:
                 <b>src</b>: Pasta que contém o código fonte.
  -->
 
-## 🛠 Instalação
+
 
 
 
