@@ -45,7 +45,7 @@
 ## Desenvolvimento do site
 
 ### UX/UI Design
-- Auditoria competitiva com concorrentes da região
+- Auditoria competitiva dos concorrentes da região
 - <a href="https://www.figma.com/file/N4dqfF7mm87VX6d7lhWJBd/Mercia?type=design&node-id=0%3A1&mode=design&t=vFwyAtlRS4mnOhOI-1"> Wireframes </a> <br>
 - <a href="https://www.figma.com/proto/N4dqfF7mm87VX6d7lhWJBd/Mercia?page-id=1%3A641&type=design&node-id=1-645&viewport=879%2C289%2C0.1&t=Hp5zsSiqxQ9iosa2-1&scaling=scale-down-width&starting-point-node-id=1%3A645&mode=design"> Protótipo de baixa fidelidade (com fluxos de usuário navegáveis) </a> <br>
 - <a href="https://www.figma.com/proto/N4dqfF7mm87VX6d7lhWJBd/Mercia?page-id=1%3A642&type=design&node-id=13-48&viewport=224%2C264%2C0.07&t=MTwAsPMwE7N8lWcj-1&scaling=scale-down-width&starting-point-node-id=13%3A48&mode=design"> Protótipo de alta fidelidade (com tipografia e cores definidos) </a> <br>
