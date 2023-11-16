@@ -17,7 +17,6 @@
 <a href="https://www.linkedin.com/in/nayan-pinho-rh-dp/"> Nayan Pinho de Oliveira </a> <br>
 
 
-
                                                                                                             
 
 ## Professores Orientadores: 
@@ -42,6 +41,64 @@
 
 <p> Através de pesquisas de mercado e com base na marca de Mércia, construiremos um site utilizando as principais tecnologias e ferramentas do mercado: HTML, CSS, JavaScript, FIGMA, React e Node.js </p> 
 
+
+## Desenvolvimento do site
+
+### UX/UI Design
+- Auditoria competitiva com concorrentes da região
+- <a href="https://www.figma.com/file/N4dqfF7mm87VX6d7lhWJBd/Mercia?type=design&node-id=0%3A1&mode=design&t=vFwyAtlRS4mnOhOI-1"> Wireframes </a> <br>
+- <a href="https://www.figma.com/proto/N4dqfF7mm87VX6d7lhWJBd/Mercia?page-id=1%3A641&type=design&node-id=1-645&viewport=879%2C289%2C0.1&t=Hp5zsSiqxQ9iosa2-1&scaling=scale-down-width&starting-point-node-id=1%3A645&mode=design"> Protótipo de baixa fidelidade (com fluxos de usuário navegáveis) </a> <br>
+- <a href="https://www.figma.com/proto/N4dqfF7mm87VX6d7lhWJBd/Mercia?page-id=1%3A642&type=design&node-id=13-48&viewport=224%2C264%2C0.07&t=MTwAsPMwE7N8lWcj-1&scaling=scale-down-width&starting-point-node-id=13%3A48&mode=design"> Protótipo de alta fidelidade (com tipografia e cores definidos) </a> <br>
+- <a href="https://www.figma.com/file/N4dqfF7mm87VX6d7lhWJBd/Mercia?type=design&node-id=14%3A657&mode=design&t=vFwyAtlRS4mnOhOI-1"> Design System </a> <br>
+
+
+### Front-end
+
+- **HTML**: Estrutura do site.
+- **CSS**: Estilos para a apresentação do site.
+- **JavaScript**: Funcionalidades interativas e dinâmicas.
+
+### Back-end
+
+- **Node.js**: Ambiente de execução do JavaScript no servidor.
+- **Express**: Framework do Node.js para criar a API e gerenciar as rotas e requisições HTTP.
+- **MySQL**: Sistema de gerenciamento de banco de dados para armazenamento de dados do site.
+
+## Recursos
+
+- Página principal com informações sobre os serviços oferecidos.
+- Seção de categorias de decoração com imagens e links para páginas detalhadas.
+- Formulário de contato para solicitação de orçamentos.
+- Seções promocionais para destacar serviços específicos.
+- Rodapé com informações de contato e navegação rápida.
+
+## Configuração e Instalação
+
+Para configurar e executar o projeto localmente, siga estas etapas:
+
+### Pré-requisitos
+
+- Node.js (versão recomendada: 12.x ou superior)
+- NPM (incluído com o Node.js)
+- MySQL (versão recomendada: 5.7 ou superior)
+
+### Instalação
+
+1. Clone o repositório do projeto:
+   ```sh
+   git clone https://github.com/MartinhoThiago/MerciaDecoracoes.git
+   ```
+2. Navegue até a pasta do projeto e instale as dependências:
+   ```sh
+   cd MerciaDecoracoes-Main
+   npm install
+   ```
+3. Crie um banco de dados MySQL e configure o arquivo `Server.js` com as credenciais do banco de dados.
+4. Inicie o servidor Express, na pasta JS, onde o server.js está localizado:
+   ```sh
+   node server.js
+   ```
+5. Abra o navegador e acesse `http://localhost:3000` para visualizar o site.
 
 ### 
   
