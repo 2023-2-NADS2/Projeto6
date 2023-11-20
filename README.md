@@ -21,7 +21,7 @@
 
 ## Professores Orientadores: 
  <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> <br>
-  <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a> <br>
+ <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a> <br>
  
  
 
@@ -40,6 +40,7 @@
 ### Resumo do Projeto: <br>
 
 <p> Através de pesquisas de mercado e com base na marca de Mércia, construiremos um site utilizando as principais tecnologias e ferramentas do mercado: HTML, CSS, JavaScript, FIGMA, React e Node.js </p> 
+<p> Clique aqui para acessar o site: <a href="https://2023-2-nads2.github.io/Projeto6/"> Site ao vivo </a></p>  <br>
 
 
 ## Desenvolvimento do site
@@ -54,9 +55,9 @@
 
 ### Front-end
 
-- **HTML**: Estrutura do site.
-- **CSS**: Estilos para a apresentação do site.
-- **JavaScript**: Funcionalidades interativas e dinâmicas.
+- **HTML**: Estrutura semântica do site.
+- **CSS**: Estilos para a apresentação do site, com várias concatenações de diversas folhas de estilo para melhor organização e manutenção do código.
+- **JavaScript**: Funcionalidades interativas e dinâmicas, o mesmo ocorre ao separar em modules, para facilitar a organização e a manutenção. 
 
 ### Back-end
 
